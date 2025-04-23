@@ -1,2 +1,2 @@
-# Vidhya
+# About me
 My Personal Repository
